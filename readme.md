@@ -1,6 +1,6 @@
 # Pose With Covariance Array RViz Plugin
 
-This package defines the ros message `PoseWithCovarianceArray` and its corresponding rviz plugin. The implementation of the rviz plugin is adapted from `PoseArray`.
+This package defines the ROS message `PoseWithCovarianceArray` and its corresponding RViz plugin. The implementation of the RViz plugin is adapted from `PoseArray` from [RViz repository](https://github.com/ros-visualization/rviz).
 
 ## Compilation
 
